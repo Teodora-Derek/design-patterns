@@ -19,3 +19,18 @@
 [submodule "behavioral/observer"]
 	path = behavioral/observer
 	url = git@github.com:Teodora-Derek/observer.git
+[submodule "structural/adapter"]
+	path = structural/adapter
+	url = git@github.com:Teodora-Derek/adapter.git
+[submodule "structural/composite"]
+	path = structural/composite
+	url = git@github.com:Teodora-Derek/composite.git
+[submodule "structural/decorator"]
+	path = structural/decorator
+	url = git@github.com:Teodora-Derek/decorator.git
+[submodule "structural/facade"]
+	path = structural/facade
+	url = git@github.com:Teodora-Derek/facade.git
+[submodule "structural/flyweight"]
+	path = structural/flyweight
+	url = git@github.com:Teodora-Derek/flyweight.git
