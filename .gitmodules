@@ -1,0 +1,12 @@
+[submodule "creational/abstract-factory"]
+	path = creational/abstract-factory
+	url = git@github.com:Teodora-Derek/abstract-factory.git
+[submodule "creational/factory-method"]
+	path = creational/factory-method
+	url = git@github.com:Teodora-Derek/factory-method.git
+[submodule "creational/prototype"]
+	path = creational/prototype
+	url = git@github.com:Teodora-Derek/prototype.git
+[submodule "creational/singleton"]
+	path = creational/singleton
+	url = git@github.com:Teodora-Derek/singleton.git
