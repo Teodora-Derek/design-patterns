@@ -10,3 +10,12 @@
 [submodule "creational/singleton"]
 	path = creational/singleton
 	url = git@github.com:Teodora-Derek/singleton.git
+[submodule "behavioral/strategy"]
+	path = behavioral/strategy
+	url = git@github.com:Teodora-Derek/strategy.git
+[submodule "behavioral/command"]
+	path = behavioral/command
+	url = git@github.com:Teodora-Derek/command.git
+[submodule "behavioral/observer"]
+	path = behavioral/observer
+	url = git@github.com:Teodora-Derek/observer.git
