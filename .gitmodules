@@ -37,3 +37,6 @@
 [submodule "creational/builder"]
 	path = creational/builder
 	url = git@github.com:Teodora-Derek/builder.git
+[submodule "structural/bridge"]
+	path = structural/bridge
+	url = git@github.com:Teodora-Derek/bridge.git
