@@ -34,3 +34,6 @@
 [submodule "structural/flyweight"]
 	path = structural/flyweight
 	url = git@github.com:Teodora-Derek/flyweight.git
+[submodule "creational/builder"]
+	path = creational/builder
+	url = git@github.com:Teodora-Derek/builder.git
